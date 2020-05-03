@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/react-redux-shopping-cart/static/css/main.1d9375b4.chunk.css",
-    "main.js": "/react-redux-shopping-cart/static/js/main.d5b245b3.chunk.js",
-    "main.js.map": "/react-redux-shopping-cart/static/js/main.d5b245b3.chunk.js.map",
-    "runtime-main.js": "/react-redux-shopping-cart/static/js/runtime-main.5129dd97.js",
-    "runtime-main.js.map": "/react-redux-shopping-cart/static/js/runtime-main.5129dd97.js.map",
-    "static/js/2.e1b16fb4.chunk.js": "/react-redux-shopping-cart/static/js/2.e1b16fb4.chunk.js",
-    "static/js/2.e1b16fb4.chunk.js.map": "/react-redux-shopping-cart/static/js/2.e1b16fb4.chunk.js.map",
+    "main.js": "/react-redux-shopping-cart/static/js/main.4c7a8493.chunk.js",
+    "main.js.map": "/react-redux-shopping-cart/static/js/main.4c7a8493.chunk.js.map",
+    "runtime-main.js": "/react-redux-shopping-cart/static/js/runtime-main.64d24410.js",
+    "runtime-main.js.map": "/react-redux-shopping-cart/static/js/runtime-main.64d24410.js.map",
+    "static/js/2.0b8b13d3.chunk.js": "/react-redux-shopping-cart/static/js/2.0b8b13d3.chunk.js",
+    "static/js/2.0b8b13d3.chunk.js.map": "/react-redux-shopping-cart/static/js/2.0b8b13d3.chunk.js.map",
     "index.html": "/react-redux-shopping-cart/index.html",
-    "precache-manifest.7ed266815376843d108091d1a5d3df08.js": "/react-redux-shopping-cart/precache-manifest.7ed266815376843d108091d1a5d3df08.js",
+    "precache-manifest.4c3df46cdd5f329b4b508a69251a7c2b.js": "/react-redux-shopping-cart/precache-manifest.4c3df46cdd5f329b4b508a69251a7c2b.js",
     "service-worker.js": "/react-redux-shopping-cart/service-worker.js",
     "static/css/main.1d9375b4.chunk.css.map": "/react-redux-shopping-cart/static/css/main.1d9375b4.chunk.css.map",
-    "static/js/2.e1b16fb4.chunk.js.LICENSE.txt": "/react-redux-shopping-cart/static/js/2.e1b16fb4.chunk.js.LICENSE.txt",
+    "static/js/2.0b8b13d3.chunk.js.LICENSE.txt": "/react-redux-shopping-cart/static/js/2.0b8b13d3.chunk.js.LICENSE.txt",
     "static/media/burger.jpg": "/react-redux-shopping-cart/static/media/burger.79901f9a.jpg",
     "static/media/pasta.jpg": "/react-redux-shopping-cart/static/media/pasta.f0046d71.jpg",
     "static/media/pizza.jpg": "/react-redux-shopping-cart/static/media/pizza.1a4e6340.jpg",
     "static/media/sandwitch.jpg": "/react-redux-shopping-cart/static/media/sandwitch.10e443d4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5129dd97.js",
-    "static/js/2.e1b16fb4.chunk.js",
+    "static/js/runtime-main.64d24410.js",
+    "static/js/2.0b8b13d3.chunk.js",
     "static/css/main.1d9375b4.chunk.css",
-    "static/js/main.d5b245b3.chunk.js"
+    "static/js/main.4c7a8493.chunk.js"
   ]
 }

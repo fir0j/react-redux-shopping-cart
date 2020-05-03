@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fd7eaf10f086605f4653fda5cc8a6c8",
+    "revision": "5c2588eeda3df15140b58a7b7d80e0df",
     "url": "/react-redux-shopping-cart/index.html"
   },
   {
-    "revision": "a1c291d1b7cb2362793a",
+    "revision": "f9a2451376d38fd0bf34",
     "url": "/react-redux-shopping-cart/static/css/main.1d9375b4.chunk.css"
   },
   {
-    "revision": "0e4fba3fea60a54ea540",
-    "url": "/react-redux-shopping-cart/static/js/2.e1b16fb4.chunk.js"
+    "revision": "47042a34d78020439b15",
+    "url": "/react-redux-shopping-cart/static/js/2.0b8b13d3.chunk.js"
   },
   {
     "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/react-redux-shopping-cart/static/js/2.e1b16fb4.chunk.js.LICENSE.txt"
+    "url": "/react-redux-shopping-cart/static/js/2.0b8b13d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1c291d1b7cb2362793a",
-    "url": "/react-redux-shopping-cart/static/js/main.d5b245b3.chunk.js"
+    "revision": "f9a2451376d38fd0bf34",
+    "url": "/react-redux-shopping-cart/static/js/main.4c7a8493.chunk.js"
   },
   {
-    "revision": "4e84b86e653066e7b4af",
-    "url": "/react-redux-shopping-cart/static/js/runtime-main.5129dd97.js"
+    "revision": "c8453f17ae8091b67b68",
+    "url": "/react-redux-shopping-cart/static/js/runtime-main.64d24410.js"
   },
   {
     "revision": "79901f9a134593a5dad1c6779d5d9395",
