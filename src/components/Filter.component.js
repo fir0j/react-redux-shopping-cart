@@ -46,7 +46,7 @@ class Filter extends Component {
 }
 
 // see whenever we need any state, we are accessing from the redux-global-store called state here.
-
+// or say we are importing our component's state from the redux-store so that we can use here.
 const mapStateToProps = (state) => ({
 	itemType: state.products.itemType,
 	sortBy: state.products.sortBy,

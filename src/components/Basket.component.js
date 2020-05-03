@@ -64,6 +64,7 @@ class Basket extends Component {
 	}
 }
 
+// bringing states of our component inside our component so that we can use it here.
 const mapStateToProps = (state) => ({
 	cartItems: state.cart.cartItems
 });

@@ -38,9 +38,13 @@ class Products extends Component {
 		return <div className="row">{productItems}</div>;
 	}
 }
-
+// importing states which we just defined for this component in redux or product reducer from redux-store so that
+// we can use states maintained for our component by redux in our component.
+// mapStateToPros: equivalent this.state={ } for our this component.
 // this is how we access any state of our app using 'state' object in any component easily
 // 'state'  refers to the redux's global store of states  which has been created using combineReducers() function.
+// syntax for accessing the global props: globalState.reducerName_from_globState.stateVariable_name holding the value in the swichCase inside the reducer file.
+// Then store the value in the form of props in your required component. so process meaningful name came as mapStateToProps.
 const mapStateToProps = (state) => ({
 	products: state.products.filteredItems,
 	cartItems: state.cart.cartItems
@@ -49,3 +53,6 @@ const mapStateToProps = (state) => ({
 // this is how we access any methods,functions,actions or bussiness logic of our app(import, extract, use)
 // it connect our component to redux store so that data and functions can be exchanged between the component and the redux-store.
 export default connect(mapStateToProps, { fetchProducts, addToCart })(Products);
+// syntax: connect(mapStateToProps, mapDispatchToProps)(needdyComponent)
+// Note: suppose needdyComponent doesn't need props only wan to import some dispatched function then we can write
+// connect(null, mapDispatchToProps)(needdyComponent)
