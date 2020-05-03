@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.9c2da657.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.02789a8f.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.02789a8f.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.2044215a.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.2044215a.js.map",
+    "static/js/2.e1b16fb4.chunk.js": "/shopping-cart/static/js/2.e1b16fb4.chunk.js",
+    "static/js/2.e1b16fb4.chunk.js.map": "/shopping-cart/static/js/2.e1b16fb4.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "precache-manifest.22e0f713b9170acf59f752837e7c80d1.js": "/shopping-cart/precache-manifest.22e0f713b9170acf59f752837e7c80d1.js",
+    "service-worker.js": "/shopping-cart/service-worker.js",
+    "static/css/main.9c2da657.chunk.css.map": "/shopping-cart/static/css/main.9c2da657.chunk.css.map",
+    "static/js/2.e1b16fb4.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.e1b16fb4.chunk.js.LICENSE.txt",
+    "static/media/burger.jpg": "/shopping-cart/static/media/burger.79901f9a.jpg",
+    "static/media/pasta.jpg": "/shopping-cart/static/media/pasta.f0046d71.jpg",
+    "static/media/pizza.jpg": "/shopping-cart/static/media/pizza.1a4e6340.jpg",
+    "static/media/sandwitch.jpg": "/shopping-cart/static/media/sandwitch.10e443d4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2044215a.js",
+    "static/js/2.e1b16fb4.chunk.js",
+    "static/css/main.9c2da657.chunk.css",
+    "static/js/main.02789a8f.chunk.js"
+  ]
+}
